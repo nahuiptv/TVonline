@@ -46,7 +46,8 @@ http://181.10.181.101:15001/play/a098/index.m3u8
 #EXTINF:-1, ESPN 3 ARG
 http://181.79.81.145:8000/play/a15g
 #EXTINF:-1, ESPN 4 ARG
-http://181.79.81.145:8000/play/a1dr#EXTINF:-1, Tele Deporte 
+http://181.79.81.145:8000/play/a1dr
+#EXTINF:-1, Tele Deporte 
 http://176.65.146.189:8401/play/a096
 #EXTINF:-1, DIRECTV SPORTS 
 http://38.224.230.122:8000/play/a05a/index.m3u8
@@ -56,4 +57,3 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 http://190.128.129.83:8000/play/a03m/index.m3u8
 #EXTINF:-1, TIGO SPORTS + 2 
 http://190.128.129.83:8000/play/a03n/index.m3u8
-
