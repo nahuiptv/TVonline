@@ -9,8 +9,6 @@ https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
 http://200.55.244.75:8000/play/a0e2/index.m3u8
 #EXTINF:-1,CN23
 http://181.78.27.128:8000/play/a04r/index.m3u8
-#EXTINF:-1, CANAL 7 RAWSON 
-http://181.78.27.128:8000/play/a04r/index.m3u8
 #EXTINF:-1,CRONICA TV
 http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1,ENCUENTRO HD
