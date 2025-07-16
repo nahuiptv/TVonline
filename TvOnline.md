@@ -57,5 +57,7 @@ http://176.65.146.189:8401/play/a096
 http://38.224.230.122:8000/play/a05a/index.m3u8
 #EXTINF:-1, DIRECTV SPORTS 2
 http://179.51.136.19:8000/play/a112/index.m3u8
+#EXTINF:-1, EVENTOS 24/7
+http://170.79.235.134:8011/play/a2hj/index.m3u8
 
 
