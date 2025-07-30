@@ -3,6 +3,8 @@
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1, Tele Posadas Plus HD 
 https://live20.bozztv.com/akamaissh101/ssh101/teleposadasok2/playlist.m3u8
+#EXTINF:-1, Canal TELE ENCARNACION 
+https://live20.bozztv.com/akamaissh101/ssh101/canaltv02/playlist.m3u8
 #EXTINF:-1, Canal 4 Posadas 
 https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
 #EXTINF:-1,CANAL E
