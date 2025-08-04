@@ -34,7 +34,7 @@ http://170.83.240.134:8000/play/a00c
 #EXTINF:-1, El Trece PY
 http://170.83.240.134:8000/play/a01j
 #EXTINF:-1, SUR TV 
-http://170.83.240.134:8000/play/a025
+http://190.128.255.234:8002/play/a02t/index.m3u8
 #EXTINF:-1, SUR TV op 2
 http://138.59.227.28:8000/play/a0c8/index.m3u8
 #EXTINF:-1, TIGO SPORTS 
