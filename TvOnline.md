@@ -61,5 +61,6 @@ http://138.99.179.229:8000/play/a0se/index.m3u8
 http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1, EVENTOS 24/7
 http://170.79.235.134:8011/play/a2hj/index.m3u8
-#EXTINF:-1, CM MUSICA 
-http://190.104.67.6:234/play/a0d5/index.m3u8
+#EXTINF:-1, ESPN CO 
+http://179.1.24.58:8000/play/a02m
+
