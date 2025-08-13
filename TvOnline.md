@@ -56,7 +56,7 @@ http://181.79.81.145:8000/play/a1dr
 #EXTINF:-1, Tele Deporte 
 http://176.65.146.189:8401/play/a096
 #EXTINF:-1, DIRECTV SPORTS 
-http://138.99.179.229:8000/play/a0se/index.m3u8
+http://190.83.61.245:2233/play/a1ey/index.m3u8
 #EXTINF:-1, DIRECTV SPORTS 2
 http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1, EVENTOS 24/7
