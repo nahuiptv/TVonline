@@ -60,7 +60,7 @@ http://190.83.61.245:2233/play/a1ey/index.m3u8
 #EXTINF:-1, DIRECTV SPORTS 2
 http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1, EVENTOS 24/7
-http://170.79.235.134:8011/play/a2hj/index.m3u8
+http://45.160.12.200:8008/play/209
 #EXTINF:-1, ESPN CO 
 http://179.1.24.58:8000/play/a02m
 
