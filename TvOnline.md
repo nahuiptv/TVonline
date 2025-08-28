@@ -30,17 +30,13 @@ http://181.78.27.128:8000/play/a05t/index.m3u8
 #EXTINF:-1,Telefuturo
 http://138.59.227.28:8000/play/a0bq/index.m3u8
 #EXTINF:-1,Unicanal
-http://170.83.240.134:8000/play/a00c
+http://45.184.109.27:8000/play/a06f/index.m3u8
 #EXTINF:-1, El Trece PY
-http://170.83.240.134:8000/play/a01j
+http://138.59.227.28:8000/play/a0ca/index.m3u8
 #EXTINF:-1, SUR TV 
 http://190.128.255.234:8002/play/a02t/index.m3u8
 #EXTINF:-1, SUR TV op 2
 http://138.59.227.28:8000/play/a0c8/index.m3u8
-#EXTINF:-1, TIGO SPORTS 
-http://190.128.129.83:8000/play/a03m/index.m3u8
-#EXTINF:-1, TIGO SPORTS + 2 
-http://190.128.129.83:8000/play/a03n/index.m3u8
 #EXTINF:-1, ESPN Premium
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1, Tnt Sports Premium
