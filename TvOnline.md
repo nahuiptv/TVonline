@@ -15,18 +15,12 @@ http://181.78.27.128:8000/play/a04r/index.m3u8
 http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1,ENCUENTRO HD
 http://181.78.27.128:8000/play/a04t/index.m3u8
-#EXTINF:-1,Canal AlbNET
-http://181.78.27.128:8000/play/a05p/index.m3u8
 #EXTINF:-1,C9n 
 http://181.78.27.128:8000/play/a05s/index.m3u8
-#EXTINF:-1,La Tele Py 
-http://181.78.27.128:8000/play/a017/index.m3u8
-#EXTINF:-1,Paraguay Tv
-http://181.78.27.128:8000/play/a039/index.m3u8
 #EXTINF:-1,Paravision
-http://170.83.240.134:8000/play/a021
+http://138.59.227.28:8000/play/a0by/index.m3u8
 #EXTINF:-1,SNT PY 
-http://181.78.27.128:8000/play/a05t/index.m3u8
+http://138.59.227.28:8000/play/a0bv/index.m3u8
 #EXTINF:-1,Telefuturo
 http://138.59.227.28:8000/play/a0bq/index.m3u8
 #EXTINF:-1,Unicanal
