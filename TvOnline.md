@@ -5,14 +5,12 @@ https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/teleposadasok2/playlist.m3u8
 #EXTINF:-1, Canal 12 Posadas 
 http://200.219.40.1:8000/play/a0fk/index.m3u8
-#EXTINF:-1, Canal 4 Posadas 
-https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
+#EXTINF:-1, Canal 6 Posadas 
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1, Misiones Cuarto Posadas 
+https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 #EXTINF:-1,CANAL E
 http://200.55.244.75:8000/play/a0e2/index.m3u8
-#EXTINF:-1,CN23
-http://181.78.27.128:8000/play/a04r/index.m3u8
-#EXTINF:-1,CRONICA TV
-http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1,ENCUENTRO HD
 http://181.78.27.128:8000/play/a04t/index.m3u8
 #EXTINF:-1, ABC PY 
