@@ -15,18 +15,20 @@ http://181.78.27.128:8000/play/a04r/index.m3u8
 http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1,ENCUENTRO HD
 http://181.78.27.128:8000/play/a04t/index.m3u8
+#EXTINF:-1, ABC PY 
+http://45.170.131.228:8000/play/a042/index.m3u8
 #EXTINF:-1,C9n 
-http://181.78.27.128:8000/play/a05s/index.m3u8
+http://190.128.248.60:8000/play/a06d/index.m3u8
 #EXTINF:-1,Paravision
-http://138.59.227.28:8000/play/a0by/index.m3u8
+http://45.170.131.230:8000/play/a06c/index.m3u8
 #EXTINF:-1,SNT PY 
-http://138.59.227.28:8000/play/a0bv/index.m3u8
+http://200.80.230.122:8000/play/a0al/index.m3u8
 #EXTINF:-1,Telefuturo
-http://138.59.227.28:8000/play/a0bq/index.m3u8
+http://200.55.244.75:8000/play/a0et/index.m3u8
 #EXTINF:-1,Unicanal
-http://45.184.109.27:8000/play/a06f/index.m3u8
+http://190.128.248.59:8000/play/a06f/index.m3u8
 #EXTINF:-1, El Trece PY
-http://138.59.227.28:8000/play/a0ca/index.m3u8
+http://200.55.244.75:8000/play/a0et/index.m3u8
 #EXTINF:-1, SUR TV 
 http://190.128.255.234:8002/play/a02t/index.m3u8
 #EXTINF:-1, SUR TV op 2
@@ -53,4 +55,5 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 http://45.160.12.200:8008/play/209
 #EXTINF:-1, ESPN CO 
 http://179.1.24.58:8000/play/a02m
+
 
