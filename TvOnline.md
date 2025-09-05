@@ -28,7 +28,7 @@ http://190.128.248.59:8000/play/a00i/index.m3u8
 #EXTINF:-1,Unicanal
 http://190.128.248.59:8000/play/a06f/index.m3u8
 #EXTINF:-1, El Trece PY
-http://181.78.27.128:12543/play/a04l/index.m3u8
+http://45.184.109.27:8000/play/a01n/index.m3u8
 #EXTINF:-1, SUR TV 
 http://190.128.255.234:8002/play/a02t/index.m3u8
 #EXTINF:-1, SUR TV op 2
