@@ -21,6 +21,8 @@ http://45.170.131.228:8000/play/a042/index.m3u8
 http://190.128.248.60:8000/play/a06d/index.m3u8
 #EXTINF:-1,Paravision
 http://45.170.131.230:8000/play/a06c/index.m3u8
+#EXTINF:-1, POPU TV 
+http://45.184.109.31:8000/play/a08e/index.m3u8
 #EXTINF:-1,SNT PY 
 http://190.128.248.32:8000/play/a00h/index.m3u8
 #EXTINF:-1,Telefuturo
