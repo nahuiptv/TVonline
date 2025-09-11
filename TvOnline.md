@@ -20,7 +20,7 @@ http://190.128.248.60:8000/play/a06d/index.m3u8
 #EXTINF:-1,Paravision
 http://45.170.131.230:8000/play/a06c/index.m3u8
 #EXTINF:-1,SNT PY 
-http://200.80.230.122:8000/play/a0al/index.m3u8
+http://190.128.248.32:8000/play/a00h/index.m3u8
 #EXTINF:-1,Telefuturo
 http://190.128.248.59:8000/play/a00i/index.m3u8
 #EXTINF:-1,Unicanal
