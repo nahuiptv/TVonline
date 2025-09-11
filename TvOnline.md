@@ -13,6 +13,8 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 http://200.55.244.75:8000/play/a0e2/index.m3u8
 #EXTINF:-1, CANAL 7 JUJUY
 http://181.10.181.101:15001/play/a0dl/index.m3u8
+#EXTINF:-1, AMERICA PY TV 
+http://38.187.3.110:8000/play/a0b5/index.m3u8
 #EXTINF:-1, ABC PY 
 http://45.170.131.228:8000/play/a042/index.m3u8
 #EXTINF:-1,C9n 
