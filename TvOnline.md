@@ -9,10 +9,10 @@ http://200.219.40.1:8000/play/a0fk/index.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1, Misiones Cuarto Posadas 
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+#EXTINF:-1, Cadena Nacional 
+http://200.121.48.17:8000/play/a0co/index.m3u8
 #EXTINF:-1,CANAL E
 http://200.55.244.75:8000/play/a0e2/index.m3u8
-#EXTINF:-1, CANAL 7 JUJUY
-http://181.10.181.101:15001/play/a0dl/index.m3u8
 #EXTINF:-1, AMERICA PY TV 
 http://38.187.3.110:8000/play/a0b5/index.m3u8
 #EXTINF:-1, ABC PY 
