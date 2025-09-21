@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Tele Posadas HD 
-https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+https://rtv.fullhd-streaming.com:19360/liveapitest678d9197085bb/liveapitest678d9197085bb.m3u8
 #EXTINF:-1, Tele Posadas Plus HD 
 https://live20.bozztv.com/akamaissh101/ssh101/teleposadasok2/playlist.m3u8
 #EXTINF:-1, Canal 12 Posadas 
