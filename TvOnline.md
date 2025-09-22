@@ -11,6 +11,12 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 #EXTINF:-1, Cadena Nacional 
 http://200.121.48.17:8000/play/a0co/index.m3u8
+#EXTINF:-1, TELEFE CORDOBA 
+http://190.123.90.146:8000/play/a03c/index.m3u8
+#EXTINF:-1, CANAL 10 CORDOBA 
+http://190.123.90.146:8000/play/a01y/index.m3u8
+#EXTINF:-1, CANAL 12 CORDOBA 
+http://190.123.90.146:8000/play/a039/index.m3u8 
 #EXTINF:-1,CANAL E
 http://200.55.244.75:8000/play/a0e2/index.m3u8
 #EXTINF:-1, AMERICA PY TV 
