@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Tele Posadas HD 
-https://rtv.fullhd-streaming.com:19360/liveapitest678d9197085bb/liveapitest678d9197085bb.m3u8
-#EXTINF:-1, Tele Posadas Plus HD 
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+#EXTINF:-1, Eventos HD 
+
 #EXTINF:-1, Canal 12 Posadas 
 http://200.219.40.1:8000/play/a0fk/index.m3u8
 #EXTINF:-1, Canal 6 Posadas 
@@ -63,10 +63,6 @@ http://181.79.81.145:8000/play/a15g
 http://181.79.81.145:8000/play/a1dr
 #EXTINF:-1, Tele Deporte 
 http://176.65.146.189:8401/play/a096
-#EXTINF:-1, DIRECTV SPORTS 
-http://190.83.61.245:2233/play/a1ey/index.m3u8
-#EXTINF:-1, DIRECTV SPORTS 2
-http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1, EVENTOS 24/7
 http://45.160.12.200:8008/play/209
 #EXTINF:-1, ESPN CO 
