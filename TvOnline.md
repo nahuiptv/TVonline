@@ -62,9 +62,9 @@ http://181.79.81.145:8000/play/a15g
 http://181.79.81.145:8000/play/a1dr
 #EXTINF:-1, Tele Deporte 
 http://176.65.146.189:8401/play/a096
-#EXTINF:-1, EVENTOS 24/7
+#EXTINF:-1, ESPN PREMIUN CHILE 
 http://45.160.12.200:8008/play/209
-#EXTINF:-1, ESPN CO 
+#EXTINF:-1, ESPN COLOMBIA 
 http://177.128.113.1:8000/play/a05x
 #EXTINF:-1, X SPORTS BRASIL 
 http://168.228.219.84:8000/play/a06e/index.m3u8
