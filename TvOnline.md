@@ -1,7 +1,7 @@
 #EXTINF:-1, Tele Posadas HD 
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1, Eventos HD 
-https://cloud.odysee.live/content/0c66b57d1dc9fc7fe94d61a2723e295cbb3e36ce/master.m3u8
+https://cloud.odysee.live/content/0c66b57d1dc9fc7fe94d61a2723e295cbb3e36ce/live.m3u8
 #EXTINF:-1, Canal 12 Posadas 
 http://200.219.40.1:8000/play/a0fk/index.m3u8
 #EXTINF:-1, Canal 6 Posadas 
