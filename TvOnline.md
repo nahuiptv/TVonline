@@ -8,6 +8,8 @@ http://200.219.40.1:8000/play/a0fk/index.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1, Misiones Cuarto Posadas 
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+#EXTINF:-1, telefe INTERIOR 
+https://broker.cdn.rcs.net.ar/mnp/mdr800000004i1ehev75u46zjoxlbnsy_hls/playlist.m3u8
 #EXTINF:-1, Cadena Nacional 
 http://200.121.48.17:8000/play/a0co/index.m3u8
 #EXTINF:-1, TELEFE CORDOBA 
