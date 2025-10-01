@@ -12,6 +12,8 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #EXTINF:-1, el trece interior 
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
+#EXTINF:-1, telefe amba 
+http://190.104.67.57:234/play/a08a/index.m3u8
 #EXTINF:-1, Cadena Nacional 
 http://200.121.48.17:8000/play/a0co/index.m3u8
 #EXTINF:-1, TELEFE CORDOBA 
