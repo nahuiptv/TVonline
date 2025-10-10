@@ -37,11 +37,9 @@ http://45.170.131.228:8000/play/a042/index.m3u8
 #EXTINF:-1,C9n 
 http://181.41.199.49:8000/play/a0bx/index.m3u8
 #EXTINF:-1,Paravision
-http://45.170.131.230:8000/play/a06c/index.m3u8
+http://181.41.199.49:8000/play/a0c2/index.m3u8
 #EXTINF:-1,Canal AlbNET
 http://181.78.27.128:12543/play/a05p/index.m3u8
-#EXTINF:-1, POPU TV 
-http://45.184.109.31:8000/play/a08e/index.m3u8
 #EXTINF:-1,SNT PY 
 http://181.41.199.49:8000/play/a00k/index.m3u8
 #EXTINF:-1,Telefuturo
