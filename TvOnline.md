@@ -33,7 +33,7 @@ https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 #EXTINF:-1, AMERICA PY TV 
 http://38.187.3.110:8000/play/a0b5/index.m3u8
 #EXTINF:-1, ABC PY 
-http://45.170.131.228:8000/play/a042/index.m3u8
+http://138.121.114.34:8000/play/a13j/index.m3u8
 #EXTINF:-1,C9n 
 http://181.41.199.49:8000/play/a0bx/index.m3u8
 #EXTINF:-1,Paravision
