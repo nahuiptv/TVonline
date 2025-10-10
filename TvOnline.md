@@ -43,7 +43,7 @@ http://181.78.27.128:12543/play/a05p/index.m3u8
 #EXTINF:-1, POPU TV 
 http://45.184.109.31:8000/play/a08e/index.m3u8
 #EXTINF:-1,SNT PY 
-http://190.128.248.32:8000/play/a00h/index.m3u8
+http://181.41.199.49:8000/play/a00k/index.m3u8
 #EXTINF:-1,Telefuturo
 http://190.128.248.59:8000/play/a00i/index.m3u8
 #EXTINF:-1,Unicanal
