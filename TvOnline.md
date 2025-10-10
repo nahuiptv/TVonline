@@ -35,7 +35,7 @@ http://38.187.3.110:8000/play/a0b5/index.m3u8
 #EXTINF:-1, ABC PY 
 http://45.170.131.228:8000/play/a042/index.m3u8
 #EXTINF:-1,C9n 
-http://190.128.248.60:8000/play/a06d/index.m3u8
+http://181.41.199.49:8000/play/a0bx/index.m3u8
 #EXTINF:-1,Paravision
 http://45.170.131.230:8000/play/a06c/index.m3u8
 #EXTINF:-1,Canal AlbNET
