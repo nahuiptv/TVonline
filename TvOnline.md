@@ -51,31 +51,14 @@ http://190.128.248.59:8000/play/a06f/index.m3u8
 #EXTINF:-1, El Trece PY
 http://45.184.109.27:8000/play/a01n/index.m3u8
 #EXTINF:-1, SUR TV 
-http://190.128.255.234:8002/play/a02t/index.m3u8
-#EXTINF:-1, SUR TV op 2
-http://138.59.227.28:8000/play/a0c8/index.m3u8
+http://181.41.199.49:8000/play/a01s/index.m3u8
 #EXTINF:-1, ESPN Premium
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1, Tnt Sports Premium
 http://190.104.67.2:234/play/a06z/index.m3u8
-#EXTINF:-1, ESPN ARG
-http://200.80.230.124:8000/play/a0ab/index.m3u8
-#EXTINF:-1, ESPN 2 ARG
-http://181.10.181.101:15001/play/a098/index.m3u8
-#EXTINF:-1, ESPN 3 ARG
-http://181.79.81.145:8000/play/a15g
-#EXTINF:-1, ESPN 4 ARG
-http://181.79.81.145:8000/play/a1dr
 #EXTINF:-1, Tele Deporte 
 http://176.65.146.189:8401/play/a096
 #EXTINF:-1, ESPN PREMIUN CHILE 
 http://45.160.12.200:8008/play/209
-#EXTINF:-1, ESPN COLOMBIA 
-http://177.128.113.1:8000/play/a05x
-#EXTINF:-1, X SPORTS BRASIL 
-http://168.228.219.84:8000/play/a06e/index.m3u8
-#EXTINF:-1, Telefe Internacional 
-http://38.7.195.43:8000/play/a0vc
-
 
 
