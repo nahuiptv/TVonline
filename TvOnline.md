@@ -1,5 +1,7 @@
 #EXTINF:-1, Tele Posadas HD 
 https://tuvideoonline.com.ar:3328/hybrid/play.m3u8
+#EXTINF:-1, TELE POSADAS PLUS / POSADAS SPORTS 
+https://live20.bozztv.com/akamaissh101/ssh101/teleposadas77/playlist.m3u8
 #EXTINF:-1, Canal 12 Posadas 
 http://200.219.40.1:8000/play/a0fk/index.m3u8
 #EXTINF:-1, Canal 6 Posadas 
