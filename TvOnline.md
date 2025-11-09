@@ -12,10 +12,10 @@ https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #EXTINF:-1, telefe amba 
 http://190.104.67.57:234/play/a08a/index.m3u8
-#EXTINF:-1, canal 21 pehuajo buenos aires 
-https://vivo.solumedia.com:19360/canal21/canal21.m3u8
-#EXTINF:-1, Cadena Nacional 
-http://200.121.48.17:8000/play/a0co/index.m3u8
+#EXTINF:-1, Canal 7 NEUQUEN 
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1, Canal 10 Rio negro  
+https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/playlist.m3u8?wowzatokenendtime=1762719480&wowzatokenstarttime=0&wowzatokenhash=lAFj2W_sJJZEAhhpWlFLs6fCe22NyKIORQ8ySxbYEgQ=
 #EXTINF:-1, TELEFE CORDOBA 
 http://190.123.90.146:8000/play/a03c/index.m3u8
 #EXTINF:-1, CANAL 10 CORDOBA 
