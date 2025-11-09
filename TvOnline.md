@@ -30,16 +30,16 @@ https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 #EXTINF: -1, LN+
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
-#EXTINF:-1, AMERICA PY TV 
-http://38.187.3.110:8000/play/a0b5/index.m3u8
-#EXTINF:-1, ABC PY 
-http://138.121.114.34:8000/play/a13j/index.m3u8
-#EXTINF:-1,C9n 
-http://181.41.199.49:8000/play/a0bx/index.m3u8
-#EXTINF:-1,Paravision
-http://181.41.199.49:8000/play/a0c2/index.m3u8
-#EXTINF:-1,Canal AlbNET
-http://181.78.27.128:12543/play/a05p/index.m3u8
+#EXTINF:-1, CN 
+https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/31_.m3u8?token=ZlzRDq8Fb0mwzqzF5DlQ7w&expires=1762730571
+#EXTINF:-1, DISNEY CHANNEL
+https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/28_.m3u8?token=yUEp4v94UynLbW2G2CIuIA&expires=1762730653
+#EXTINF:-1, DISNEY JUNIOR 
+https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/29_.m3u8?token=ByH8qldsuI-nOgShwBwqyQ&expires=1762730741
+#EXTINF:-1, STAR CHANNEL 
+https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/54_.m3u8?token=yl3JKywWm_rABZh9CG03Xw&expires=1762730795
+#EXTINF:-1, TNT 
+https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/52_.m3u8?token=-EP0P3vZVsVh2ng2TREFPw&expires=1762730863
 #EXTINF:-1,SNT PY 
 http://181.41.199.49:8000/play/a00k/index.m3u8
 #EXTINF:-1,Telefuturo
