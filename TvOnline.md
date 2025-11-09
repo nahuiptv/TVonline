@@ -51,7 +51,7 @@ http://45.184.109.27:8000/play/a01n/index.m3u8
 #EXTINF:-1, SUR TV 
 http://181.41.199.49:8000/play/a01s/index.m3u8
 #EXTINF:-1, ESPN Premium
-http://181.13.252.102:8000/play/a078/index.m3u8
+http://190.104.67.44:234/play/a086/index.m3u8
 #EXTINF:-1, Tnt Sports Premium
 http://190.104.67.2:234/play/a06z/index.m3u8
 #EXTINF:-1, Tele Deporte 
