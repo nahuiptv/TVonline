@@ -1,5 +1,5 @@
 #EXTINF:-1, Tele Posadas HD 
-https://tuvideoonline.com.ar:3328/hybrid/play.m3u8
+https://video.conweb.com.ar:3869/live/poderosalive.m3u8
 #EXTINF:-1, Canal 12 Posadas 
 http://200.219.40.1:8000/play/a0fk/index.m3u8
 #EXTINF:-1, Canal 6 Posadas 
@@ -14,10 +14,6 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 http://190.104.67.57:234/play/a08a/index.m3u8
 #EXTINF:-1, Canal 7 NEUQUEN 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1, Canal 10 Rio negro  
-https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/playlist.m3u8?wowzatokenendtime=1762719480&wowzatokenstarttime=0&wowzatokenhash=lAFj2W_sJJZEAhhpWlFLs6fCe22NyKIORQ8ySxbYEgQ=
-#EXTINF:-1, TELEFE CORDOBA 
-http://190.123.90.146:8000/play/a03c/index.m3u8
 #EXTINF:-1, CANAL 10 CORDOBA 
 http://190.123.90.146:8000/play/a01y/index.m3u8
 #EXTINF:-1, EL DOCE CORDOBA 
@@ -30,16 +26,6 @@ https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 #EXTINF: -1, LN+
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
-#EXTINF:-1, CN 
-https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/31_.m3u8?token=ZlzRDq8Fb0mwzqzF5DlQ7w&expires=1762730571
-#EXTINF:-1, DISNEY CHANNEL
-https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/28_.m3u8?token=yUEp4v94UynLbW2G2CIuIA&expires=1762730653
-#EXTINF:-1, DISNEY JUNIOR 
-https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/29_.m3u8?token=ByH8qldsuI-nOgShwBwqyQ&expires=1762730741
-#EXTINF:-1, STAR CHANNEL 
-https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/54_.m3u8?token=yl3JKywWm_rABZh9CG03Xw&expires=1762730795
-#EXTINF:-1, TNT 
-https://live.saohgdasregions.fun:9092/MjAxLjIxMy45Mi4xNjE=/52_.m3u8?token=-EP0P3vZVsVh2ng2TREFPw&expires=1762730863
 #EXTINF:-1,SNT PY 
 http://181.41.199.49:8000/play/a00k/index.m3u8
 #EXTINF:-1,Telefuturo
