@@ -33,7 +33,7 @@ http://158.172.217.237:8000/play/a0a4/index.m3u8
 #EXTINF:-1,Unicanal
 http://181.78.27.128:12543/play/a04p/index.m3u8
 #EXTINF:-1,C9N PY 
-http://181.78.27.128:12543/play/a021/index.m3u8
+http://181.41.199.49:8000/play/a01p/index.m3u8
 #EXTINF:-1,NPY PY 
 http://181.78.27.128:12543/play/a018/index.m3u8
 #EXTINF:-1, El Trece PY
