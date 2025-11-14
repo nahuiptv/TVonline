@@ -38,6 +38,8 @@ http://181.78.27.128:12543/play/a04l/index.m3u8
 http://181.41.199.49:8000/play/a01s/index.m3u8
 #EXTINF:-1, ABC TV 
 http://181.78.27.128:12543/play/a05r/index.m3u8
+#EXTINF:-1, PARANA MEDIOS 
+https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8
 #EXTINF:-1, ESPN Premium
 http://190.104.67.44:234/play/a086/index.m3u8
 #EXTINF:-1, Tnt Sports Premium
@@ -46,6 +48,7 @@ http://190.104.67.2:234/play/a06z/index.m3u8
 http://181.78.27.128:12543/play/a06f/index.m3u8
 #EXTINF:-1, ESPN PREMIUN CHILE 
 http://45.160.12.200:8008/play/209
+
 
 
 
