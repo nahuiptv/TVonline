@@ -1,5 +1,7 @@
 #EXTINF:-1, TeleposadasTV 
 https://videostream.shockmedia.com.ar:19360/teleposadastv/teleposadastv.m3u8
+#EXTINF:-1, EL DOCE NQN 
+https://live20.bozztv.com/akamaissh101/ssh101/eldoce/playlist.m3u8
 #EXTINF:-1, Canal 12 Posadas 
 http://181.209.72.149:8000/play/a0dk/index.m3u8
 #EXTINF:-1, Canal 2 Posadas 
