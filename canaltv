@@ -18,10 +18,6 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 http://190.104.67.57:234/play/a08a/index.m3u8
 #EXTINF:-1, Canal 7 NEUQUEN 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1, CANAL 10 CORDOBA 
-http://190.123.90.146:8000/play/a01y/index.m3u8
-#EXTINF:-1, EL DOCE CORDOBA 
-http://190.123.90.146:8000/play/a039/index.m3u8 
 #EXTINF:-1,CANAL G CORRIENTES 
 http://181.78.27.128:12543/play/a063/index.m3u8
 #EXTINF:-1, TN 
@@ -34,8 +30,6 @@ https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 http://181.41.199.49:8000/play/a00k/index.m3u8
 #EXTINF:-1,Telefuturo
 http://158.172.217.237:8000/play/a0a4/index.m3u8
-#EXTINF:-1,Unicanal
-http://181.78.27.128:12543/play/a04p/index.m3u8
 #EXTINF:-1,C9N PY 
 http://181.41.199.49:8000/play/a01p/index.m3u8
 #EXTINF:-1,NPY PY 
