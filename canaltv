@@ -14,8 +14,8 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #EXTINF:-1, el trece interior 
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
-#EXTINF:-1, Telefe Amba  
-http://190.104.67.57:234/play/a08a/index.m3u8
+#EXTINF:-1, TELEFE INTERIOR 
+http://45.5.151.62:8000/play/a09d/index.m3u8
 #EXTINF:-1, Canal 7 NEUQUEN 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1,CANAL G CORRIENTES 
@@ -29,7 +29,7 @@ https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 #EXTINF:-1,SNT PY 
 http://181.41.199.49:8000/play/a00k/index.m3u8
 #EXTINF:-1,Telefuturo
-http://158.172.217.237:8000/play/a0a4/index.m3u8
+http://201.217.247.165:8000/play/a0fk/index.m3u8
 #EXTINF:-1,C9N PY 
 http://181.41.199.49:8000/play/a01p/index.m3u8
 #EXTINF:-1,NPY PY 
@@ -40,8 +40,8 @@ http://181.78.27.128:12543/play/a04l/index.m3u8
 http://181.41.199.49:8000/play/a01s/index.m3u8
 #EXTINF:-1, ABC TV 
 http://181.78.27.128:12543/play/a05r/index.m3u8
-#EXTINF:-1, PARANA MEDIOS 
-https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8
+#EXTINF:-1, CANAL 2 
+http://181.209.72.149:8000/play/a0ds/index.m3u8
 #EXTINF:-1, ESPN Premium
 http://190.104.67.44:234/play/a086/index.m3u8
 #EXTINF:-1, Tnt Sports Premium
@@ -50,10 +50,10 @@ http://45.5.151.62:8000/play/a09f/index.m3u8
 http://181.78.27.128:12543/play/a06f/index.m3u8
 #EXTINF:-1, ESPN PREMIUN CHILE 
 http://45.160.12.200:8008/play/209
-#EXTINF:-1, TOM Y JERRY 
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ESPN MEXICO 
-http://181.78.109.48:9998/play/a04p/index.m3u8
+#EXTINF:-1, EL DESTAPE TV
+http://201.217.247.165:8000/play/a0fn/index.m3u8
+#EXTINF:-1, TELEFE INTERIOR 
+http://45.5.151.62:8000/play/a09d/index.m3u8
 
 
 
