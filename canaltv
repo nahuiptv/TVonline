@@ -33,7 +33,7 @@ http://181.209.72.149:8000/play/a0do/index.m3u8
 #EXTINF:-1,Telefuturo
 http://201.217.247.165:8000/play/a0fk/index.m3u8
 #EXTINF:-1,C9N PY 
-http://181.41.199.49:8000/play/a01p/index.m3u8
+https://dwtukzgxkof4q.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fdwtukzgxkof4q.cloudfront.net%2Findex.m3u8%22%2Csid%3D%2287a982e0-15a4-4c9c-bf7b-1de45316a4aa%22
 #EXTINF:-1,NPY PY 
 http://181.78.27.128:12543/play/a018/index.m3u8
 #EXTINF:-1, El Trece PY
