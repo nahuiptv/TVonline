@@ -54,7 +54,25 @@ http://181.78.27.128:12543/play/a06f/index.m3u8
 http://45.160.12.200:8008/play/209
 #EXTINF:-1, EL DESTAPE TV
 http://201.217.247.165:8000/play/a0fn/index.m3u8
-
-
-
-
+#EXTINF:-1 ARTE 1 BR 
+http://45.235.0.78/Arte_1/playlist.m3u8
+#EXTINF:-1 Animal Planet BR
+http://45.235.0.78/Animal_Planet/playlist.m3u8
+#EXTINF:-1  AXN BR 
+http://45.235.0.78/AXN/playlist.m3u8
+#EXTINF:-1 GLOBO NEWS BR 
+http://45.235.0.78/GloboNews/playlist.m3u8
+#EXTINF:-1 BAND SPORTS 
+http://45.235.0.78/Band_Sports/playlist.m3u8
+#EXTINF:-1 ESPN BR 
+http://45.235.0.78/ESPN/playlist.m3u8
+#EXTINF:-1 ESPN 3 BR 
+http://45.235.0.78/ESPN_3/playlist.m3u8
+#EXTINF:-1 ESPN 4 BR 
+http://45.235.0.78/ESPN_4/playlist.m3u8
+#EXTINF:-1 GLOOB
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 GNT BR 
+http://45.235.0.78/GNT/playlist.m3u8
+#EXTINF:-1 GLOOBINHO 
+http://45.235.0.78/Gloobinho/playlist.m3u8
