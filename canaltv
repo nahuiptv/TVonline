@@ -58,7 +58,7 @@ http://201.217.247.165:8000/play/a0fn/index.m3u8
 http://45.235.0.78/Arte_1/playlist.m3u8
 #EXTINF:-1, Animal Planet BR
 http://45.235.0.78/Animal_Planet/playlist.m3u8
-#EXTINF:-1  AXN BR 
+#EXTINF:-1, AXN BR 
 http://45.235.0.78/AXN/playlist.m3u8
 #EXTINF:-1, GLOBO NEWS BR 
 http://45.235.0.78/GloboNews/playlist.m3u8
