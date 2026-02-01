@@ -50,3 +50,6 @@ http://45.5.151.62:8000/play/a09f/index.m3u8
 http://181.78.27.128:12543/play/a06f/index.m3u8
 #EXTINF:-1, ESPN PREMIUN CHILE 
 http://45.160.12.200:8008/play/209
+#EXTINF:-1, ESPN PREMIUN ARGENTINA 
+http://45.170.40.11:8000/play/a031/index.m3u8 
+
