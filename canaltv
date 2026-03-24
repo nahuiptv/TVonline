@@ -4,8 +4,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleposadas/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/eldoce/playlist.m3u8
 #EXTINF:-1, Canal 12 Posadas 
 http://181.209.72.149:8000/play/a0dk/index.m3u8
-#EXTINF:-1, Teleposadas 2 
-https://live.cdnlivecdn.com/live/a860b94812183d41aad3c25684862afcfc88f713.m3u8
 #EXTINF:-1, Canal 2 Posadas 
 http://200.106.13.204:8000/play/a0ct/index.m3u8
 #EXTINF:-1, Canal 6 Posadas 
