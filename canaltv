@@ -9,7 +9,7 @@ http://200.106.13.204:8000/play/a0ct/index.m3u8
 #EXTINF:-1, Canal 6 Posadas 
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1, Misiones Cuarto Posadas 
-https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1, America Interior  
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #EXTINF:-1, el trece interior 
@@ -24,22 +24,6 @@ https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 #EXTINF: -1, LN+
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
-#EXTINF:-1,SNT PY 
-http://179.1.139.84:8000/play/a05u/index.m3u8
-#EXTINF:-1,Telefuturo
-http://201.217.246.48:9000/play/a0di/index.m3u8
-#EXTINF:-1,C9N PY 
-http://179.1.192.227:8000/play/a00z/index.m3u8
-#EXTINF:-1,NPY PY 
-http://181.78.27.128:12543/play/a018/index.m3u8
-#EXTINF:-1, El Trece PY
-http://45.184.111.107:8000/play/a0bk/index.m3u8
-#EXTINF:-1, SUR TV 
-http://181.78.27.128:12543/play/a03g/index.m3u8
-#EXTINF:-1, ABC TV 
-http://181.78.27.128:12543/play/a05r/index.m3u8
-#EXTINF:-1, UNICANAL 
-http://181.78.27.128:12543/play/a04p/index.m3u8
 #EXTINF:-1, Tnt Sports Premium
 http://45.5.151.147:8000/play/a00r/index.m3u8
 #EXTINF:-1, DIRECTV SPORTS  
