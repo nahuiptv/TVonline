@@ -18,10 +18,6 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 http://45.5.151.62:8000/play/a09d/index.m3u8
 #EXTINF:-1, EL NUEVE INTERIOR 
 http://45.5.151.62:8000/play/a072/index.m3u8
-#EXTINF:-1, Canal 7 NEUQUEN 
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1,CANAL G CORRIENTES 
-http://181.78.27.128:12543/play/a063/index.m3u8
 #EXTINF:-1, TN 
 https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 #EXTINF:-1, C5N
@@ -52,3 +48,6 @@ http://181.78.27.128:12543/play/a06f/index.m3u8
 http://45.160.12.200:8008/play/209
 #EXTINF:-1, ESPN PREMIUN ARGENTINA 
 http://45.238.54.67:8000/play/a031/index.m3u8
+#EXTINF:-1, FOX SPORTS AR
+http://45.238.54.67:8000/play/a030/index.m3u8
+
