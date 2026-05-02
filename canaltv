@@ -30,6 +30,10 @@ http://45.160.12.200:8008/play/209
 http://45.238.54.67:8000/play/a031/index.m3u8
 #EXTINF:-1, FOX SPORTS AR
 http://45.238.54.67:8000/play/a030/index.m3u8
+#EXTINF:-1,EVENTOS 1 
+https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EVENTOS 2 
+https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",1-Telefe
 http://181.209.37.74:8001/play/a08a/index.m3u8
