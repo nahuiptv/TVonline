@@ -15,30 +15,14 @@ https://joy.nx-pc.edge-apps.net/hls/dnob-bh2e8-ie61h-da129.m3u8
 #EXTINF:-1, EL NUEVE AMBA  
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 #EXTINF:-1, TN 
-https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1, C5N
-https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
-#EXTINF: -1, LN+
-https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
 #EXTINF: -1, TELEFE INTERIOR 
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:0 tvg-id="CRONICA TV.ar" tvg-name="CRONICA TV" CUID="9" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343495/lfiirtos0kntrahjmmro.png" group-title="Argentina TV",CRONICA TV
-https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 #EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="Argentina TV",TNT SPORTS PREMIUM
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Argentina TV",ESPN PREMIUM
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
-#EXTINF:0 tvg-id="DSPORTS.ar" tvg-name="DSPORTS" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdud7OubZw9h9g_5m9GwOTjpikETjU_A0YUr6IyfbupaEi2olXLnCIIbt-FYHAFKV1Uk6CADSrhFS6msx7EHNmNxCu1bdbJKisaKItdt_bPFHnXPto6gEvEr-hoNxpdQreH2ckXrVlSOcaUtBD5P3Kur-9aP2V6R32NfOCHWvJcusD57fWjLuWPN6y3sE/s200/dsports-2022.png" group-title="Argentina TV", DSPORTS 
-https://joy.nx-pc.edge-apps.net/hls/266ae-ppn41-oaifc-pglii.m3u8
-#EXTINF:0 tvg-id="DSPORTS 2.ar" tvg-name="DSPORTS 2" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiktAFCC_ySIgpwL8hFBAV9X9Bcl9Sfut6gJzTtdGAArduq-IoSOMFY15zFJY6kMHer-JllZUl5yzaj9jVNsd3TmVBu_NF2VaCoa4PV01qhjJIv7MryXXjWKmRO6pb4cDrnAvQLXHZYyf6GONC3oPhFkite9-ZHyXXmKw_F1rYTz_L0KlQ-UFUU3BS1wQ/s200/DSports_2_2022.webp" group-title="Argentina TV", DSPORTS 2
-https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
-#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="Argentina TV",ESPN
-https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
-#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="Argentina TV",ESPN 2
-https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
-#EXTINF:0 tvg-id="ESPN 3.ar" tvg-name="ESPN 3" CUID="27" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="Argentina TV",ESPN 3
-https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
-#EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="Argentina TV",ESPN 4
-https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
-#EXTINF:-1, Eventos PY 
-https://lbgo.bozztv.com/ssh101/ssh101/novasports001/playlist.m3u8
