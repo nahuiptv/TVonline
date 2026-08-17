@@ -12,8 +12,8 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 #EXTINF:0 tvg-id="VEO SANTO TOME.ar" tvg-name="VEO SANTO TOME" CUID="7" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345274/vvx5uc4yrteyyaa2w7mb.png" group-title="Argentina TV",VEO SANTO TOME
 https://joy.nx-pc.edge-apps.net/hls/dnob-bh2e8-ie61h-da129.m3u8
-#EXTINF:-1, EL NUEVE INTERIOR 
-https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+#EXTINF:-1, EL NUEVE AMBA  
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 #EXTINF:-1, TN 
 https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 #EXTINF:-1, C5N
