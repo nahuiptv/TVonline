@@ -26,3 +26,5 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Argentina TV",ESPN PREMIUM
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+#EXTINF:0 tvg-id="eventos"
+https://10axgtrr1pk17.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8?|referer=https://mbzcrz2r3yy0.s3.us-east-1.amazonaws.com/
