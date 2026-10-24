@@ -1,5 +1,7 @@
 #EXTINF:-1, Tele Posadas TV  
 https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
+#EXTINF: -1, Tele Posadas 2
+https://cdn.kift.live/live/tele_posadas/index.m3u8
 #EXTINF:-1, Canal 6 Posadas 
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1, Misiones Cuarto Posadas 
@@ -18,8 +20,8 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playl
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1, C5N
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
-#EXTINF: -1, TELEFE INTERIOR 
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
+#EXTINF: -1, Tele Posadas 
+https://cdn.kift.live/live/tele_posadas/index.m3u8
 #EXTINF:0 tvg-id="CRONICA TV.ar" tvg-name="CRONICA TV" CUID="9" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343495/lfiirtos0kntrahjmmro.png" group-title="Argentina TV",CRONICA TV
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 #EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="Argentina TV",TNT SPORTS PREMIUM
